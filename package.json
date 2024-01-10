@@ -1,0 +1,26 @@
+{
+  "name": "midnightazure",
+  "displayName": "MidnightAzure",
+  "description": "Dark theme for vscode",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "icon": "images/icon.png",
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Aniket6990/Layer"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "MidnightAzure",
+        "uiTheme": "vs-dark",
+        "path": "./themes/MidnightAzure-color-theme.json"
+      }
+    ]
+  }
+}
