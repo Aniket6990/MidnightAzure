@@ -3,12 +3,22 @@
   "displayName": "MidnightAzure",
   "description": "Dark theme for vscode",
   "version": "0.0.1",
+  "publisher": "Chaintown",
   "engines": {
     "vscode": "^1.85.0"
   },
   "icon": "images/icon.png",
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "MidnightAzure",
+    "Azure",
+    "dark theme",
+    "theme",
+    "beautiful theme",
+    "night theme",
+    "midnight"
   ],
   "repository": {
     "type": "git",
